@@ -1,5 +1,4 @@
 composer.lck
 vendor/
-cache/!.gitignore
 cache/*
-
+!cache/.gitignore
